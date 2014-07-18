@@ -1,0 +1,32 @@
+---
+name:
+  rubytest-outline
+
+version: 
+  0.1.0
+
+title:
+  Rubytest Outline Report Format
+
+summary:
+  Outline test report format for Rubytest.
+
+description:
+  This is an outline test report format for the Rubytest metaframework.
+
+resources:
+  home: http://rubyworks.github.com/rubytest-outline
+  code: http://github.com/rubyworks/rubytest-outline
+  mail: http://groups.google.com/group/rubyworks-mailinglist
+
+repositories:
+  upstream: git@github.com:rubyworks/rubytest-outline.git
+
+authors:
+  - trans <transfire@gmail.com>
+
+created: 2011-07-23
+
+copyrights:
+  - 2011 RubyWorks (BSD-2-Clause)
+
