@@ -1,8 +1,11 @@
 # encoding: UTF-8
+require 'ansi'
 
 module Test::Reporters
 
-  # 
+  ##
+  # Outline reporter.
+  #
   class Outline < Abstract
 
     #
